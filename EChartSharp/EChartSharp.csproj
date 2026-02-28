@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <LangVersion>preview</LangVersion>
-    <Version>0.0.4</Version>
+    <Version>0.0.5</Version>
     <RootNamespace>EChartSharp</RootNamespace>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <Authors>zmjack</Authors>
@@ -31,7 +31,7 @@
   </ItemGroup>
 
   <ItemGroup>
-	<PackageReference Include="NStandard" Version="[0.100.0,0.110.0)" />
+	<PackageReference Include="NStandard" Version="[0.110.0,0.120.0)" />
   </ItemGroup>
 
 </Project>

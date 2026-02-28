@@ -1,9 +1,6 @@
 ﻿using EChartSharp.Option;
 using EChartSharp.Series;
 using NStandard.Data;
-using System.Data.Common;
-using System.Numerics;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace EChartSharp;
 

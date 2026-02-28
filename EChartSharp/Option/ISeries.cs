@@ -1,6 +1,5 @@
 ﻿using EChartSharp.Series;
 using NStandard.Drawing;
-using NStandard.Text.Json;
 using System.Text.Json.Serialization;
 
 namespace EChartSharp.Option;
